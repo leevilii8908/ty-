@@ -1,0 +1,48 @@
+<!doctype html><html><head></head><body>
+
+<br><button type="button" onclick="myFunction()">paina</button><br>
+
+<script>
+function myFunction() {
+  document.body.style.backgroundImage = "url('/storage/emulated/0/Download/547.jpg')";
+}
+</script>
+<p></p><form action="https://m.facebook.com/713699205351847/posts/1514418175279942/?refsrc=http%3A%2F%2Fwww.google.com%2Fsearch&amp;_rdr" method="get" class="from-example">
+   <div class="form-exaple">
+   <h0 style="color: red;" <label for="name"> for your name</h0>
+   
+   <input type="text" name="name" id="name" required>
+   </div>
+   <div glass="form-example">
+   <h0 style="color: red;" <label for="email"> enter your email</h0>
+   
+   <input type="email" name="email" id="email" required>
+   </div>
+   <div glass="form-example">
+   <input type="submit">
+   <value="subscribe">
+   </value="subscribe"></div>
+   </form> 
+   <p>
+   </p><form>
+    <fieldset>
+    <br><h0 style="color:red;" <legend>mikä leevi on?</h0><br>
+    
+      <h0 style="color:red;">
+      
+     <input type="radio" id="kaveri" name="kaveri" <label for="kaveri">kaveri<br>
+      
+     <input type="radio" id="veli" name="veli" <label for="veli">veli<br>
+    
+    <input type="radio" id="paras kaveri" name="paras kaveri" <label for="paras kaveri">paras kaveri<br>
+    
+    </h0>
+    <p></p>
+    
+    </fieldset></form>
+    <h1 style="color:red;" <h1>olet todella tärkeä minulle</h1>
+
+
+
+<script type="text/javascript" id="dcoder_script">alert("olet todella todella tärkeä minulle❤️")
+</script></body></html>
